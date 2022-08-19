@@ -14,6 +14,5 @@ Due to pandamic, the provided data cannot accurately reflect the global market's
 
 # Tools used
 Python libraries:-
-
-Pandas
-Sklearn
+           . Pandas
+           . Sklearn
