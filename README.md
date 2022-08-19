@@ -13,6 +13,6 @@ using Linear Regression, StandardScaler, Pipeline with split functions & k-fold 
 Due to pandamic, the provided data cannot accurately reflect the global market's true impact. Due to a lack of equipment in some developing countries, there aren't enough cases to report. On the other hand, developed nations have sufficient testing facilities and offer more cases for both testing and showing.
 
 # Tools used
- Python libraries:-
+#Python libraries:-
          1. Pandas
         2. Sklearn
