@@ -2,7 +2,7 @@
 
 # Overview
 
-In this project, I used interactive plots from plotly and seaborn to visualize the data in Covid_data.csv. This data set includes information about 210 nations' reactions to COVID-19's effects on the world economy.
+In this project, I used interactive plots from plotly, matplotlib and seaborn to visualize the data in Covid_data.csv. This data set includes information about 210 nations' reactions to COVID-19's effects on the world economy.
 
 # Methods
 
