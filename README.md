@@ -14,7 +14,7 @@ Due to pandamic, the provided data cannot accurately reflect the global market's
 
 # Tools used
 
-# Python libraries:-
+Python libraries:-
        
        1. Pandas
        
